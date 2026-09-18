@@ -1,0 +1,423 @@
+﻿Comp_ID,Smiles,Name,Family,Formula,MW,FP exp. (K),dnAB,dnCCDB2,dnQC,g-CH3,g-CH2-(linear),g-O-(ring),g>C=Oring,g-COO-(linear) ester,g-CH- (linear),g-CH=(lineal),g-CH= (ring),g-CH- (ring),g-CH2-(ring),dnOHprim,dnOHsec,dnOHter,Modularity
+1,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",Alcohols,C6H14O6,182.17,422,0,0,0,0,2,0,0,0,4,0,0,0,0,2,4,0,0.46875
+2,OCC[C@H](O)CO,"(2S)-butane-1,2,4-triol",Alcohols,C4H10O3,106.12,385,0,0,0,0,3,0,0,0,1,0,0,0,0,2,1,0,0.319444444
+3,OC/C=C\CO,"(2Z)-but-2-ene-1,4-diol",Alcohols,C4H8O2,88.1,401.15,0,1,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0.291666667
+4,CCCCC(CC)(CO)CO,"2-butyl-2-ethylpropane-1,3-diol",Alcohols,C9H20O2,160.25,386,0,0,1,2,6,0,0,0,0,0,0,0,0,2,0,0,0.399305556
+5,CCCCCCC(CO)CCCC,2-butyloctan-1-ol,Alcohols,C12H26O,186.33,382.15,0,0,0,2,9,0,0,0,1,0,0,0,0,1,0,0,0.473333333
+6,CCC(C)CO,2-methylbutan-1-ol,Alcohols,C5H12O,88.15,316.15,0,0,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0.26
+7,CCC(C)(C)O,2-methylbutan-2-ol,Alcohols,C5H12O,88.15,294,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0.255102041
+8,CCCC(C)CO,2-methylpentan-1-ol,Alcohols,C6H14O,102.17,319,0,0,0,2,3,0,0,0,1,0,0,0,0,1,0,0,0.319444444
+9,CC(O)CC(C)(C)O,"2-methylpentane-2,4-diol",Alcohols,C6H14O2,118.17,366,0,0,0,3,1,0,0,0,1,0,0,0,0,0,1,1,0.375
+10,OCC(C)C,2-methylpropan-1-ol,Alcohols,C4H10O,74.12,301,0,0,0,2,1,0,0,0,1,0,0,0,0,1,0,0,0.255102041
+11,CC(C)(C)O,2-methylpropan-2-ol,Alcohols,C4H10O,74.12,284.26,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0.138888889
+12,OCC(CO)(CO)CO,"2,2-bis(hydroxymethyl)propane-1,3-diol",Alcohols,C5H12O4,136.15,533.15,0,0,1,0,4,0,0,0,0,0,0,0,0,4,0,0,0.328125
+13,CCC(CC)(CO)CO,"2,2-diethylpropane-1,3-diol",Alcohols,C7H16O2,132.2,374.15,0,0,1,2,4,0,0,0,0,0,0,0,0,2,0,0,0.328125
+14,OCC(C)(C)CO,"2,2-dimethylpropane-1,3-diol",Alcohols,C5H12O2,104.15,371.15,0,0,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0.302469136
+15,OCC(C)(C)CC(C)C,"2,2,4-trimethylpentan-1-ol",Alcohols,C8H18O,130.23,329.75,0,0,1,4,2,0,0,0,1,0,0,0,0,1,0,0,0.37654321
+16,OCC(C)(C)C(O)C(C)C,"2,2,4-trimethylpentane-1,3-diol",Alcohols,C8H18O2,146.23,383.15,0,0,1,4,1,0,0,0,2,0,0,0,0,1,1,0,0.395
+17,OCC(C)C(C)C(C)C,"2,3,4-trimethylpentan-1-ol",Alcohols,C8H18O,130.23,333,0,0,0,4,1,0,0,0,3,0,0,0,0,1,0,0,0.388888889
+18,OCC(C)CC(C)(C)C,"2,4,4-trimethylpentan-1-ol",Alcohols,C8H18O,130.23,333.15,0,0,1,4,2,0,0,0,1,0,0,0,0,1,0,0,0.37654321
+19,OCCC(C)C,3-methylbutan-1-ol,Alcohols,C5H12O,88.15,316,0,0,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0.3359375
+20,CC(O)C(C)C,3-methylbutan-2-ol,Alcohols,C5H12O,88.15,299.15,0,0,0,3,0,0,0,0,2,0,0,0,0,0,1,0,0.3359375
+21,CCCCC(C)(O)CC,3-methylheptan-3-ol,Alcohols,C8H18O,130.23,327,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,1,0.399305556
+22,OCCC(C)CC,3-methylpentan-1-ol,Alcohols,C6H14O,102.17,331.15,0,0,0,2,3,0,0,0,1,0,0,0,0,1,0,0,0.319444444
+23,CCC(C)(O)CC,3-methylpentan-3-ol,Alcohols,C6H14O,102.17,297.15,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,0.302469136
+24,CCC(C)CC(O)CC,5-methylheptan-3-ol,Alcohols,C8H18O,130.23,327,0,0,0,3,3,0,0,0,2,0,0,0,0,0,1,0,0.399305556
+25,CCCCO,butan-1-ol,Alcohols,C4H10O,74.12,310,0,0,0,1,3,0,0,0,0,0,0,0,0,1,0,0,0.255102041
+26,CCC(C)O,butan-2-ol,Alcohols,C4H10O,74.12,296.15,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,0.255102041
+27,OCCC(C)O,"butane-1,3-diol",Alcohols,C4H10O2,90.12,382,0,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0.26
+28,OCCCCO,"butane-1,4-diol",Alcohols,C4H10O2,90.12,407.15,0,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0.26
+29,CC(O)C(C)O,"butane-2,3-diol",Alcohols,C4H10O2,90.12,358.15,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0.3359375
+30,CCCCCCCCCCO,decan-1-ol,Alcohols,C10H22O,158.28,378,0,0,0,1,9,0,0,0,0,0,0,0,0,1,0,0,0.44214876
+31,OCCO,"ethane-1,2-diol",Alcohols,C2H6O2,62.07,383.15,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0.166666667
+32,CCO,ethanol,Alcohols,C2H6O,46.07,286,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.1875
+33,CCCCCCCO,heptan-1-ol,Alcohols,C7H16O,116.2,346,0,0,0,1,6,0,0,0,0,0,0,0,0,1,0,0,0.375
+34,CCCCCC(C)O,heptan-2-ol,Alcohols,C7H16O,116.2,332.15,0,0,0,2,4,0,0,0,1,0,0,0,0,0,1,0,0.3671875
+35,CCCCC(C)O,hexan-2-ol,Alcohols,C6H14O,102.17,314,0,0,0,2,3,0,0,0,1,0,0,0,0,0,1,0,0.375
+36,OCCCCCCO,"hexane-1,6-diol",Alcohols,C6H14O2,118.17,420.15,0,0,0,0,6,0,0,0,0,0,0,0,0,2,0,0,0.375
+37,CC(O)CCC(C)O,"hexane-2,5-diol",Alcohols,C6H14O2,118.17,374,0,0,0,2,2,0,0,0,2,0,0,0,0,0,2,0,0.3671875
+38,CCCCCCCCCO,nonan-1-ol,Alcohols,C9H20O,144.25,353,0,0,0,1,8,0,0,0,0,0,0,0,0,1,0,0,0.415
+39,CCCCCCCCO,octan-1-ol,Alcohols,C8H18O,130.23,354,0,0,0,1,7,0,0,0,0,0,0,0,0,1,0,0,0.388888889
+40,CCCCCCC(C)O,octan-2-ol,Alcohols,C8H18O,130.23,358,0,0,0,2,5,0,0,0,1,0,0,0,0,0,1,0,0.423076923
+41,CCCCCO,pentan-1-ol,Alcohols,C5H12O,88.15,330,0,0,0,1,4,0,0,0,0,0,0,0,0,1,0,0,0.26
+42,CCCC(C)O,pentan-2-ol,Alcohols,C5H12O,88.15,314,0,0,0,2,2,0,0,0,1,0,0,0,0,0,1,0,0.3359375
+43,CCC(O)CC,pentan-3-ol,Alcohols,C5H12O,88.15,313,0,0,0,2,2,0,0,0,1,0,0,0,0,0,1,0,0.3359375
+44,OCCCCCO,"pentane-1,5-diol",Alcohols,C5H12O2,104.15,402.15,0,0,0,0,5,0,0,0,0,0,0,0,0,2,0,0,0.319444444
+45,CCCO,propan-1-ol,Alcohols,C3H8O,60.09,298,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0.166666667
+46,CC(C)O,propan-2-ol,Alcohols,C3H8O,60.09,285.15,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0.16
+47,CCC(O)O,"propane-1,1-diol",Alcohols,C3H8O2,76.09,372,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,2,0.255102041
+48,OCC(O)CO,"propane-1,2,3-triol",Alcohols,C3H8O3,92.09,433.15,0,0,0,0,2,0,0,0,1,0,0,0,0,2,1,0,0.26
+49,OCCCO,"propane-1,3-diol",Alcohols,C3H8O2,76.09,352.15,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0.255102041
+50,CCCCCCC(C)c1ccccc1,(1-methylheptyl)benzene,Aromatics,C14H22,190.32,373,6,3,0,2,5,0,0,0,1,0,5,0,0,0,0,0,0.419375
+51,CC(C)(C)Cc1ccccc1,"(2,2-dimethylpropyl)benzene",Aromatics,C11H16,148.24,323,6,3,1,3,1,0,0,0,0,0,5,0,0,0,0,0,0.449380165
+52,CC(C)c1ccccc1C,1-ethyl-2-isopropylbenzene,Aromatics,C10H14,134.22,331,6,3,0,3,0,0,0,0,1,0,4,0,0,0,0,0,0.4473419
+53,CCc1cccc(C)c1C,"1-ethyl-2,3-dimethylbenzene",Aromatics,C10H14,134.22,338,6,3,0,3,1,0,0,0,0,0,3,0,0,0,0,0,0.277727478
+54,CCc1ccc(C)cc1C,"1-ethyl-2,4-dimethylbenzene",Aromatics,C10H14,134.22,330,6,3,0,3,1,0,0,0,0,0,3,0,0,0,0,0,0.316568047
+55,CCc1ccc(C)cc1,1-ethyl-4-methylbenzene,Aromatics,C9H12,120.19,309.15,6,3,0,2,1,0,0,0,0,0,4,0,0,0,0,0,0.267361111
+56,C=Cc1ccccc1C,1-methyl-2-ethenylbenzene,Aromatics,C9H10,118.18,320.15,6,4,0,1,0,0,0,0,0,1,4,0,0,0,0,0,0.256835938
+57,Cc1cccc(c1)C(C)C,1-methyl-3-(propan-2-yl)benzene,Aromatics,C10H14,134.22,323,6,3,0,3,0,0,0,0,1,0,4,0,0,0,0,0,0.370864198
+58,C=Cc1cccc(C)c1,1-methyl-3-ethenylbenzene,Aromatics,C9H10,118.18,324.15,6,4,0,1,0,0,0,0,0,1,4,0,0,0,0,0,0.319526627
+59,CCCc1cccc(C)c1,1-methyl-3-propylbenzene,Aromatics,C10H14,134.22,325,6,3,0,2,2,0,0,0,0,0,4,0,0,0,0,0,0.319526627
+60,C=Cc1ccc(C)cc1,1-methyl-4-ethenylbenzene,Aromatics,C9H10,118.18,319,6,4,0,1,0,0,0,0,0,1,4,0,0,0,0,0,0.319526627
+61,CCc1ccccc1CC,"1,2-diethylbenzene",Aromatics,C10H14,134.22,330.37,6,3,0,2,2,0,0,0,0,0,4,0,0,0,0,0,0.253808864
+62,c1ccc(cc1)c1ccccc1c1ccccc1,"1,2-diphenylbenzene",Aromatics,C18H13,229.3,436,18,9,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0.513429752
+63,c1ccc(cc1)CCc1ccccc1,"1,2-diphenylethane",Aromatics,C14H13,181.25,402.04,12,6,0,0,2,0,0,0,0,0,10,0,0,0,0,0,0.39212828
+64,Cc1ccc(C)c(C)c1C,"1,2,3,4-tetramethylbenzene",Aromatics,C10H14,134.22,341.15,6,3,0,4,0,0,0,0,0,0,2,0,0,0,0,0,0.298148807
+65,Cc1cc(C)c(C)c(C)c1,"1,2,3,5-tetramethylbenzene",Aromatics,C10H14,134.22,336.48,6,3,0,4,0,0,0,0,0,0,2,0,0,0,0,0,0.316568047
+66,CCc1ccc(CC)c(CC)c1,"1,2,4-triethylbenzene",Aromatics,C12H18,162.27,353.15,6,3,0,3,3,0,0,0,0,0,3,0,0,0,0,0,0.331496786
+67,Cc1ccc(C)c(C)c1,"1,2,4-trimethylbenzene",Aromatics,C9H12,120.19,318.65,6,3,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0.236357659
+68,CC(C)c1cccc(c1)C(C)C,"1,3-di(propan-2-yl)benzene",Aromatics,C12H18,162.27,349,6,3,0,4,0,0,0,0,2,0,4,0,0,0,0,0,0.370867769
+69,c1ccc(cc1)c1cccc(c1)c1ccccc1,"1,3-diphenylbenzene",Aromatics,C18H12,228.29,464,18,9,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0.47637051
+70,CCc1cc(CC)cc(CC)c1,"1,3,5-triethylbenzene",Aromatics,C12H18,162.27,354.15,6,3,0,3,3,0,0,0,0,0,3,0,0,0,0,0,0.366666667
+71,CC(C)c1cc(cc(c1)C(C)C)C(C)C,"1,3,5-triisopropylbenzene",Aromatics,C15H24,204.35,359.82,6,3,0,6,0,0,0,0,3,0,3,0,0,0,0,0,0.450980392
+72,Cc1ccc(C)cc1,"1,4-dimethylbenzene",Aromatics,C8H10,106.16,298.15,6,3,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0.172831633
+73,c1ccc(cc1)c1ccc(cc1)c1ccccc1,"1,4-diphenylbenzene",Aromatics,C18H12,228.29,480,18,9,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0.47637051
+74,CC(C)(c1ccccc1)c1ccccc1,"2,2-diphenylpropane",Aromatics,C15H15,195.28,383.15,12,6,1,2,0,0,0,0,0,0,10,0,0,0,0,0,0.537710007
+75,CCc1ccc(C)c(C)c1,"4-ethyl-1,2-dimethylbenzene",Aromatics,C10H14,134.22,331,6,3,0,3,1,0,0,0,0,0,3,0,0,0,0,0,0.298148807
+76,Cc1ccc(cc1)C(C)C,4-isopropyltoluene,Aromatics,C10H14,134.22,320,6,3,0,3,0,0,0,0,1,0,4,0,0,0,0,0,0.314128944
+77,C1CCC(CC1)c1ccccc1,cyclohexylbenzene,Aromatics,C12H9,153.2,372,6,3,0,0,0,0,0,0,0,0,5,1,5,0,0,0,0.388888889
+78,c1ccc(cc1)Cc1ccccc1,diphenylmethane,Aromatics,C13H11,167.23,403.15,12,6,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0.389640441
+79,C=Cc1ccccc1,ethenylbenzene,Aromatics,C8H8,104.15,305,6,4,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0.288194444
+80,CCc1ccccc1,ethylbenzene,Aromatics,C8H10,106.16,288.15,6,3,0,1,1,0,0,0,0,0,5,0,0,0,0,0,0.237764792
+81,c1ccc2CCCc2c1,indane,Aromatics,C9H10,118.18,321.65,6,3,0,0,0,0,0,0,0,0,4,0,3,0,0,0,0.24852071
+82,CC(C)Cc1ccccc1,isobutylbenzene,Aromatics,C10H14,134.22,325.15,6,3,0,2,1,0,0,0,1,0,5,0,0,0,0,0,0.455209535
+83,CC(C)c1ccccc1,isopropylbenzene,Aromatics,C9H12,120.19,304.15,6,3,0,2,0,0,0,0,1,0,5,0,0,0,0,0,0.436945266
+84,CCCCc1ccccc1,n-butylbenzene,Aromatics,C10H14,134.22,323.15,6,3,0,1,3,0,0,0,0,0,5,0,0,0,0,0,0.323242188
+85,CCCCCCCCCCc1ccccc1,n-decylbenzene,Aromatics,C16H26,218.38,380,6,3,0,1,9,0,0,0,0,0,5,0,0,0,0,0,0.50446163
+86,CCCCCCCCCCCCc1ccccc1,n-dodecylbenzene,Aromatics,C18H30,246.43,414,6,3,0,1,11,0,0,0,0,0,5,0,0,0,0,0,0.534320988
+87,CCCc1ccccc1,n-propylbenzene,Aromatics,C9H12,120.19,303.15,6,3,0,1,2,0,0,0,0,0,5,0,0,0,0,0,0.288194444
+88,CCCCCCCCCCCc1ccccc1,n-undecylbenzene,Aromatics,C17H28,232.4,417,6,3,0,1,10,0,0,0,0,0,5,0,0,0,0,0,0.509464575
+89,CCCCCCCCCc1ccccc1,nonylbenzene,Aromatics,C15H24,204.35,372,6,3,0,1,8,0,0,0,0,0,5,0,0,0,0,0,0.485207101
+90,CCCCCc1ccccc1,pentylbenzene,Aromatics,C11H16,148.24,338.15,6,3,0,1,4,0,0,0,0,0,5,0,0,0,0,0,0.364186851
+91,CC(C)(C)c1ccccc1,tert-butylbenzene,Aromatics,C10H14,134.22,333.15,6,3,1,3,0,0,0,0,0,0,5,0,0,0,0,0,0.436945266
+92,C1CCc2ccccc2C1,tetralin,Aromatics,C10H12,132.2,350,6,3,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0.251807851
+93,Cc1ccccc1,toluene,Aromatics,C7H8,92.14,277.15,6,3,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0.242036011
+94,C[C@@H](O)c1ccccc1,(1R)-1-phenylethan-1-ol,Aromatics (Oxygenates),C8H10O,122.16,358.15,6,3,0,1,0,0,0,0,1,0,5,0,0,0,1,0,0.436945266
+95,OCc1ccccc1C,(2-methylphenyl)methanol,Aromatics (Oxygenates),C8H10O,122.16,377.15,6,3,0,1,1,0,0,0,0,0,4,0,0,1,0,0,0.259368836
+96,OCc1cccc(C)c1,(3-methylphenyl)methanol,Aromatics (Oxygenates),C8H10O,122.16,378.15,6,3,0,1,1,0,0,0,0,0,4,0,0,1,0,0,0.275308642
+97,OCc1ccc(CO)cc1,[4-(hydroxymethyl)phenyl]methanol,Aromatics (Oxygenates),C8H10O2,138.16,461,6,3,0,0,2,0,0,0,0,0,4,0,0,2,0,0,0.304733728
+98,O=C(OCC1CCC(CC1)COC(=O)c1ccccc1)c1ccccc1,{4-[(benzoyloxy)methyl]cyclohexyl}methyl benzoate,Aromatics (Oxygenates),C22H22O4,350.41,434,12,6,0,0,2,0,0,2,0,0,10,2,4,0,0,0,0.572143998
+99,CCC(O)c1ccccc1,1-phenylpropan-1-ol,Aromatics (Oxygenates),C9H12O,136.19,363.15,6,3,0,1,1,0,0,0,1,0,5,0,0,0,1,0,0.436945266
+100,CC(O)Cc1ccccc1,1-phenylpropan-2-ol,Aromatics (Oxygenates),C9H12O,136.19,358.15,6,3,0,1,1,0,0,0,1,0,5,0,0,0,1,0,0.455209535
+101,CCc1ccccc1O,2-ethylphenol,Aromatics (Oxygenates),C8H10O,122.16,351.15,6,3,0,1,1,0,0,0,0,0,4,0,0,0,0,2,0.259368836
+102,OCc1ccco1,2-furylmethanol,Aromatics (Oxygenates),C5H6O2,98.1,356,5,2,0,0,1,1,0,0,0,0,3,0,0,1,0,0,0.191135734
+103,Cc1ccccc1O,2-methylphenol,Aromatics (Oxygenates),C7H8O,108.14,354,6,3,0,1,0,0,0,0,0,0,4,0,0,0,0,2,0.237764792
+104,OCCc1ccccc1,2-phenylethanol,Aromatics (Oxygenates),C8H10O,122.16,369,6,3,0,0,2,0,0,0,0,0,5,0,0,1,0,0,0.288194444
+105,OCC(C)c1ccccc1,2-phenylpropan-1-ol,Aromatics (Oxygenates),C9H12O,136.19,366.15,6,3,0,1,1,0,0,0,1,0,5,0,0,1,0,0,0.436945266
+106,CC(C)(O)c1ccccc1,2-phenylpropan-2-ol,Aromatics (Oxygenates),C9H12O,136.19,360.15,6,3,0,2,0,0,0,0,0,0,5,0,0,0,0,1,0.436945266
+107,CCc1cccc(O)c1,3-ethylphenol,Aromatics (Oxygenates),C8H10O,122.16,367.15,6,3,0,1,1,0,0,0,0,0,4,0,0,0,0,2,0.275308642
+108,Cc1cccc(O)c1,3-methylphenol,Aromatics (Oxygenates),C7H8O,108.14,368,6,3,0,1,0,0,0,0,0,0,4,0,0,0,0,2,0.276701323
+109,OCCCc1ccccc1,3-phenylpropan-1-ol,Aromatics (Oxygenates),C9H12O,136.19,373.15,6,3,0,0,3,0,0,0,0,0,5,0,0,1,0,0,0.323242188
+110,Oc1ccc(cc1)C(C)(C)c1ccc(O)cc1,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol,Aromatics (Oxygenates),C15H15O2,227.28,480.15,12,6,1,2,0,0,0,0,0,0,8,0,0,0,0,4,0.436213018
+111,Cc1ccc(O)cc1,4-methylphenol,Aromatics (Oxygenates),C7H8O,108.14,368,6,3,0,1,0,0,0,0,0,0,4,0,0,0,0,2,0.172831633
+112,Oc1ccc(cc1O)C(C)(C)C,"4-tert-butylbenzene-1,2-diol",Aromatics (Oxygenates),C10H14O2,166.22,403,6,3,1,3,0,0,0,0,0,0,3,0,0,0,0,4,0.36264308
+113,Oc1ccc(cc1)C(C)(C)C,4-tert-butylphenol,Aromatics (Oxygenates),C10H14O,150.22,386,6,3,1,3,0,0,0,0,0,0,4,0,0,0,0,2,0.33353151
+114,Oc1ccccc1O,"benzene-1,2-diol",Aromatics (Oxygenates),C6H6O2,110.11,400,6,3,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0.237764792
+115,Oc1ccc(O)cc1,"benzene-1,4-diol",Aromatics (Oxygenates),C6H6O2,110.11,438,6,3,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0.172831633
+116,O=C(OCc1ccccc1)c1ccccc1,benzyl benzoate,Aromatics (Oxygenates),C14H11O2,211.24,418.15,12,6,0,0,1,0,0,1,0,0,10,0,0,0,0,0,0.475924745
+117,CC(=O)OCc1ccccc1,benzyl ethanoate,Aromatics (Oxygenates),C9H10O2,150.17,363.15,6,3,0,1,1,0,0,1,0,0,5,0,0,0,0,0,0.444
+118,O=COCc1ccccc1,benzyl methanoate,Aromatics (Oxygenates),C8H8O2,136.15,355,6,3,0,0,1,0,0,1,0,0,5,0,0,0,0,0,0.452892562
+119,CCCCOC(=O)c1ccccc1,butyl benzoate,Aromatics (Oxygenates),C11H14O2,178.23,379.15,6,3,0,1,3,0,0,1,0,0,5,0,0,0,0,0,0.446122449
+120,CCCCOC(=O)c1ccccc1C(=O)OCCCC,di-n-butyl phthalate,Aromatics (Oxygenates),C16H22O4,278.34,430.15,6,3,0,2,6,0,0,2,0,0,4,0,0,0,0,0,0.56958862
+121,CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC,di-n-nonyl phthalate,Aromatics (Oxygenates),C26H42O4,418.61,489.15,6,3,0,2,16,0,0,2,0,0,4,0,0,0,0,0,0.634577778
+122,CCOC(=O)c1ccccc1C(=O)OCC,diethyl phthalate,Aromatics (Oxygenates),C12H14O4,222.24,390.37,6,3,0,2,2,0,0,2,0,0,4,0,0,0,0,0,0.503621548
+123,CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C,diisobutyl phthalate,Aromatics (Oxygenates),C16H22O4,278.34,434.15,6,3,0,4,2,0,0,2,2,0,4,0,0,0,0,0,0.593887839
+124,CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C,diisodecyl phthalate,Aromatics (Oxygenates),C28H46O4,446.66,505.37,6,3,0,4,14,0,0,2,2,0,4,0,0,0,0,0,0.678504155
+125,COC(=O)c1cccc(c1)C(=O)OC,dimethyl isophthalate,Aromatics (Oxygenates),C10H10O4,194.18,411.15,6,3,0,2,0,0,0,2,0,0,4,0,0,0,0,0,0.451704545
+126,COC(=O)c1ccccc1C(=O)OC,dimethyl phthalate,Aromatics (Oxygenates),C10H10O4,194.18,419,6,3,0,2,0,0,0,2,0,0,4,0,0,0,0,0,0.470795024
+127,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,dioctyl phthalate,Aromatics (Oxygenates),C24H38O4,390.55,489,6,3,0,4,10,0,0,2,2,0,4,0,0,0,0,0,0.647892966
+128,CCOC(=O)c1ccccc1,ethyl benzoate,Aromatics (Oxygenates),C9H10O2,150.17,357.15,6,3,0,1,1,0,0,1,0,0,5,0,0,0,0,0,0.373048907
+129,Oc1ccccc1,phenol,Aromatics (Oxygenates),C6H6O,94.11,353,6,3,0,0,0,0,0,0,0,0,5,0,0,0,0,2,0.242036011
+130,OCc1ccccc1,phenylmethanol,Aromatics (Oxygenates),C7H8O,108.14,374,6,3,0,0,1,0,0,0,0,0,5,0,0,1,0,0,0.237764792
+131,Cc1ccc(O)c(C)c1,"xylen-2,4-ol",Aromatics (Oxygenates),C8H10O,122.16,368.15,6,3,0,2,0,0,0,0,0,0,3,0,0,0,0,2,0.236357659
+132,OCC1CCC=CC1,"1,2,3,6-tetrahydrobenzyl alcohol",Cyclic (Oxygenates),C7H12O,112.17,346.15,0,1,0,0,1,0,0,0,0,0,2,1,3,1,0,0,0.288927336
+133,OCC1CCC(CO)CC1,"1,4-cyclohexanedimethanol",Cyclic (Oxygenates),C8H10O2,138.16,434.15,0,0,0,0,2,0,0,0,0,0,0,2,4,2,0,0,0.34
+134,OCC1CCC(C)CC1,4-methyl-cyclohexane-methanol,Cyclic (Oxygenates),C8H16O,128.21,354,0,0,0,1,1,0,0,0,0,0,0,2,4,1,0,0,0.308641975
+135,OC1CCCCC1,cyclohexanol,Cyclic (Oxygenates),C6H6O,94.11,341,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,0,0.24556213
+136,CC(=O)OC1CCCCC1,cyclohexyl ethanoate,Cyclic (Oxygenates),C8H14O2,142.2,330.15,0,0,0,1,0,0,0,1,0,0,0,1,5,0,0,0,0.369822485
+137,O=COC1CCCCC1,cyclohexyl methanoate,Cyclic (Oxygenates),C7H12O2,128.17,324.15,0,0,0,0,0,0,0,1,0,0,0,1,5,0,0,0,0.345
+138,O=C1CCCCCO1,oxepan-2-one,Cyclic (Oxygenates),C6H10O2,114.14,382.15,0,0,0,0,0,1,1,0,0,0,0,0,5,0,0,0,0.308641975
+139,C1COC1=O,oxetan-2-one,Cyclic (Oxygenates),C3H4O2,72.06,343.15,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0.1171875
+140,O=C1CCCO1,oxolan-2-one,Cyclic (Oxygenates),C4H6O2,86.09,371.48,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0.224489796
+141,C[C@@H]1CCC[C@@H](O)C1,trans-3-methylcyclohexanol,Cyclic (Oxygenates),C7H14O,114.18,335.15,0,0,0,1,0,0,0,0,0,0,0,2,4,0,1,0,0.288927336
+142,CCC(CC)OC(=O)C,1-ethylpropyl ethanoate,Esters,C7H14O2,130.18,318,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0.401234568
+143,CC(=C)OC(=O)C,1-methylethenyl ethanoate,Esters,C5H8O2,100.12,283,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0.371527778
+144,CCC(=O)OCC(C)(C)C,"2,2-dimethylpropyl propanoate",Esters,C8H16O2,144.21,334,0,0,1,4,2,0,0,1,0,0,0,0,0,0,0,0,0.413194444
+145,C=CCOC(=O)C(=C)C,allyl 2-methylpropenoate,Esters,C7H10O2,126.15,306.15,0,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0.446745562
+146,CC(=O)OCC=C,allyl ethanoate,Esters,C5H8O2,100.12,295.37,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0.375
+147,CCCCOC(=O)C(=C)C,butyl 2-methylprop-2-enoate,Esters,C8H14O2,142.2,322,0,1,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0.475206612
+148,CCCCOC(=O)CCC,butyl butanoate,Esters,C8H16O2,144.21,326.48,0,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0.445
+149,CCCCOC(=O)C,butyl ethanoate,Esters,C6H12O2,116.16,295,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0.375
+150,CCCCOC=O,butyl methanoate,Esters,C5H10O2,102.13,291,0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0.37755102
+151,CCCCOC(=O)CC,butyl propanoate,Esters,C7H14O2,130.18,305.37,0,0,0,2,4,0,0,1,0,0,0,0,0,0,0,0,0.401234568
+152,CCCCCCCCCCOC=O,decyl methanoate,Esters,C11H22O2,186.29,373,0,0,0,1,9,0,0,1,0,0,0,0,0,0,0,0,0.477777778
+153,C=CCOC(=O)/C=C\C(=O)OCC=C,diallyl (2Z)-but-2-enedioate,Esters,C10H12O4,196.2,393,0,3,0,0,2,0,0,2,0,4,0,0,0,0,0,0,0.53625
+154,CCCCOC(=O)/C=C\C(=O)OCCCC,dibutyl (2Z)-but-2-enedioate,Esters,C12H20O4,228.28,413,0,1,0,2,6,0,0,2,0,2,0,0,0,0,0,0,0.569444444
+155,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,dibutyl decanedioate,Esters,C18H34O4,314.46,451.15,0,0,0,2,14,0,0,2,0,0,0,0,0,0,0,0,0.611531191
+156,CCOC(=O)/C=C\C(=O)OCC,diethyl (2Z)-but-2-enedioate,Esters,C8H12O4,172.18,366.15,0,1,0,2,2,0,0,2,0,2,0,0,0,0,0,0,0.512755102
+157,CCOC(=O)CCC(=O)OCC,diethyl butanedioate,Esters,C8H14O4,174.19,363,0,0,0,2,4,0,0,2,0,0,0,0,0,0,0,0,0.46
+158,CCOC(=O)OCC,diethyl carbonate,Esters,C5H10O3,118.13,298,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0.4140625
+159,CCOC(=O)C(=O)OCC,diethyl oxalate,Esters,C6H10O4,146.14,395,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0.475206612
+160,CCOC(=O)CC(=O)OCC,diethyl propanedioate,Esters,C7H12O4,160.17,366.15,0,0,0,2,3,0,0,2,0,0,0,0,0,0,0,0,0.451530612
+161,CCCCCCOC(=O)CCCCC(=O)OCCCCCC,dihexyl hexanedioate,Esters,C18H34O4,314.46,464,0,0,0,2,14,0,0,2,0,0,0,0,0,0,0,0,0.5896
+162,COC(=O)/C=C\C(=O)OC,dimethyl (2Z)-but-2-enedioate,Esters,C6H8O4,144.13,368.15,0,1,0,2,0,0,0,2,0,2,0,0,0,0,0,0,0.461734694
+163,COC(=O)CC(=O)OC,dimethyl propanedioate,Esters,C5H8O4,132.11,363.15,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0.399305556
+164,CCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC,dioctyl hexanedioate,Esters,C22H42O4,370.56,451.75,0,0,0,2,18,0,0,2,0,0,0,0,0,0,0,0,0.61058264
+165,CCCCCCCCCCCCOC(=O)CCC,dodecyl butanoate,Esters,C16H32O2,256.42,433,0,0,0,2,13,0,0,1,0,0,0,0,0,0,0,0,0.54125
+166,CCCCCCCCCCCCOC(=O)C,dodecyl ethanoate,Esters,C14H28O2,228.37,389,0,0,0,2,11,0,0,1,0,0,0,0,0,0,0,0,0.542534722
+167,CCCCCCCCCCCCOC(=O)CC,dodecyl propanoate,Esters,C15H30O2,242.4,421,0,0,0,2,12,0,0,1,0,0,0,0,0,0,0,0,0.533240997
+168,C=COC(=O)C(C)(C)C,"ethenyl 2,2-dimethylpropanoate",Esters,C7H12O2,128.17,282.15,0,1,1,3,0,0,0,1,0,1,0,0,0,0,0,0,0.434027778
+169,CC(=O)OC=C,ethenyl ethanoate,Esters,C4H6O2,86.09,265,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0.363905325
+170,C=COC=O,ethenyl methanoate,Esters,C3H4O2,72.06,256,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.335
+171,CCOC(=O)/C=C/C=C/C,"ethyl (2E,4E)-hexa-2,4-dienoate",Esters,C8H12O2,140.18,342.15,0,2,0,2,1,0,0,1,0,4,0,0,0,0,0,0,0.496527778
+172,CCOC(=O)/C=C/C,ethyl (2E)-but-2-enoate,Esters,C6H10O2,114.14,275.15,0,1,0,2,1,0,0,1,0,2,0,0,0,0,0,0,0.438271605
+173,CCCCC/C=C/C(=O)OCC,ethyl (2E)-oct-2-enoate,Esters,C10H18O2,170.25,371.15,0,1,0,2,5,0,0,1,0,2,0,0,0,0,0,0,0.50591716
+174,CCC/C=C/CCC(=O)OCC,ethyl (2E)-oct-4-enoate,Esters,C10H18O2,170.25,352.15,0,1,0,2,5,0,0,1,0,2,0,0,0,0,0,0,0.46
+175,CCCCCCCC/C=C\CCCCCCCC(=O)OCC,ethyl (9Z)-octadec-9-enoate,Esters,C20H38O2,310.51,365,0,1,0,2,15,0,0,1,0,2,0,0,0,0,0,0,0.5832
+176,CCOC(=O)C(C)O,ethyl 2-hydroxypropanoate,Esters,C5H10O3,118.13,319,0,0,0,2,1,0,0,1,1,0,0,0,0,0,1,0,0.4140625
+177,CCOC(=O)C(=C)C,ethyl 2-methylprop-2-enoate,Esters,C6H10O2,114.14,293.15,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0.438271605
+178,CCCC(=O)OCC,ethyl butanoate,Esters,C6H12O2,116.16,297.15,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0.4140625
+179,CCCCCCCCCC(=O)OCC,ethyl decanoate,Esters,C12H24O2,200.32,375.15,0,0,0,2,9,0,0,1,0,0,0,0,0,0,0,0,0.522959184
+180,CCCCCCCCCCCC(=O)OCC,ethyl dodecanoate,Esters,C14H28O2,228.37,386.15,0,0,0,2,11,0,0,1,0,0,0,0,0,0,0,0,0.513888889
+181,CCOC(=O)C,ethyl ethanoate,Esters,C4H8O2,88.1,269,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0.335
+182,C=CCCCCC(=O)OCC,ethyl hept-6-enoate,Esters,C9H16O2,156.22,352.15,0,1,0,1,5,0,0,1,0,1,0,0,0,0,0,0,0.489583333
+183,CCCCCCCCCCCCCCCCC(=O)OCC,ethyl heptadecanoate,Esters,C19H38O2,298.5,428,0,0,0,2,16,0,0,1,0,0,0,0,0,0,0,0,0.56805293
+184,CCCCCCC(=O)OCC,ethyl heptanoate,Esters,C9H18O2,158.24,347.15,0,0,0,2,6,0,0,1,0,0,0,0,0,0,0,0,0.466942149
+185,CCCCCC(=O)OCC,ethyl hexanoate,Esters,C8H16O2,144.21,326.15,0,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0.445
+186,CCOC(=O)CC(C)C,ethyl isopentanoate,Esters,C7H14O2,130.18,298.15,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0.438271605
+187,CCCCCCCCC(=O)OCC,ethyl nonanoate,Esters,C11H22O2,186.29,367.15,0,0,0,2,8,0,0,1,0,0,0,0,0,0,0,0,0.51183432
+188,CCCCCCCCCCCCCCCCCC(=O)OCC,ethyl octadecanoate,Esters,C20H40O2,312.53,441,0,0,0,2,17,0,0,1,0,0,0,0,0,0,0,0,0.577256944
+189,CCCCCCCC(=O)OCC,ethyl octanoate,Esters,C10H20O2,172.26,354.15,0,0,0,2,7,0,0,1,0,0,0,0,0,0,0,0,0.489583333
+190,CCCCC(=O)OCC,ethyl pentanoate,Esters,C7H14O2,130.18,307.15,0,0,0,2,4,0,0,1,0,0,0,0,0,0,0,0,0.438271605
+191,CCOC(=O)C=C,ethyl prop-2-enoate,Esters,C5H8O2,100.12,282.15,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0.4140625
+192,CCOC(=O)CC,ethyl propanoate,Esters,C5H10O2,102.13,285,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0.357142857
+193,C=CCCCCCCCCC(=O)OCC,ethyl undec-10-enoate,Esters,C13H24O2,212.33,386.15,0,1,0,1,9,0,0,1,0,1,0,0,0,0,0,0,0.544921875
+194,CCCCCCCCCCC(=O)OCC,ethyl undecanoate,Esters,C13H26O2,214.34,386.15,0,0,0,2,10,0,0,1,0,0,0,0,0,0,0,0,0.5
+195,CC(=O)OCCOC(=O)C,ethylene glycol diethanoate,Esters,C6H10O4,146.14,361.15,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0.452662722
+196,CCCCCCOC(=O)C,hexyl ethanoate,Esters,C8H16O2,144.21,310.15,0,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0.413194444
+197,CC(C)COC(=O)C(C)C,isobutyl 2-methylpropanoate,Esters,C8H16O2,144.21,311.15,0,0,0,4,1,0,0,1,2,0,0,0,0,0,0,0,0.433884298
+198,CC(C)COC(=O)C(=C)C,isobutyl 2-methylpropenoate,Esters,C8H14O2,142.2,314.15,0,1,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0.461805556
+199,CCCC(=O)OCC(C)C,isobutyl butanoate,Esters,C8H16O2,144.21,330,0,0,0,3,3,0,0,1,1,0,0,0,0,0,0,0,0.445
+200,CC(C)COC(=O)C,isobutyl ethanoate,Esters,C6H12O2,116.16,291,0,0,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0.388888889
+201,O=COCC(C)C,isobutyl methanoate,Esters,C5H10O2,102.13,302,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0.37755102
+202,CCC(=O)OCC(C)C,isobutyl propanoate,Esters,C7H14O2,130.18,320,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0.401234568
+203,CCCC(=O)OCCC(C)C,isopentyl butanoate,Esters,C9H18O2,158.24,331,0,0,0,3,4,0,0,1,1,0,0,0,0,0,0,0,0.475206612
+204,CCCCCCCCCCCC(=O)OCCC(C)C,isopentyl dodecanoate,Esters,C17H34O2,270.45,386.15,0,0,0,3,12,0,0,1,1,0,0,0,0,0,0,0,0.577562327
+205,CC(C)CCOC(=O)C,isopentyl ethanoate,Esters,C7H14O2,130.18,298.15,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0.425
+206,CC(C)CCOC(=O)CC(C)C,isopentyl isopentanoate,Esters,C10H20O2,172.26,345,0,0,0,4,3,0,0,1,2,0,0,0,0,0,0,0,0.476331361
+207,O=COCCC(C)C,isopentyl methanoate,Esters,C6H12O2,116.16,314,0,0,0,2,2,0,0,1,1,0,0,0,0,0,0,0,0.4140625
+208,CCC(=O)OCCC(C)C,isopentyl propanoate,Esters,C8H16O2,144.21,321,0,0,0,3,3,0,0,1,1,0,0,0,0,0,0,0,0.420138889
+209,CC(C)OC(=O)C,isopropyl ethanoate,Esters,C5H10O2,102.13,275,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0.375
+210,CCCCCCCC/C=C\CCCCCCCCCC(=O)OC,methyl (11Z)-eicos-11-enoate,Esters,C21H40O2,324.54,386.15,0,1,0,2,16,0,0,1,0,2,0,0,0,0,0,0,0.620659722
+211,CCCCCCCC/C=C\CCCCCCCCCCCC(=O)OC,methyl (13Z)-docos-13-enoate,Esters,C23H44O2,352.59,306.15,0,1,0,2,18,0,0,1,0,2,0,0,0,0,0,0,0.609056122
+212,CCCCC/C=C/C(=O)OC,methyl (2E)-oct-2-enoate,Esters,C9H16O2,156.22,356.15,0,1,0,2,4,0,0,1,0,2,0,0,0,0,0,0,0.489583333
+213,COC(=O)/C=C/C=C,"methyl (2E)-penta-2,4-dienoate",Esters,C6H8O2,112.13,310.15,0,2,0,1,0,0,0,1,0,3,0,0,0,0,0,0,0.420138889
+214,CCCCC/C=C/CC(=O)OC,methyl (3E)-non-3-enoate,Esters,C10H18O2,170.25,361.15,0,1,0,2,5,0,0,1,0,2,0,0,0,0,0,0,0.5
+215,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OC,"methyl (5Z,8Z,11Z,14Z,17Z)-eicosa-5,8,11,14,17-pentaenoate",Esters,C21H32O2,316.48,377.15,0,5,0,2,8,0,0,1,0,10,0,0,0,0,0,0,0.626157407
+216,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl (9Z,12Z)-octadeca-9,12-dienoate",Esters,C19H34O2,294.47,386.15,0,2,0,2,12,0,0,1,0,4,0,0,0,0,0,0,0.606139438
+217,CCCCCCCC/C=C\CCCCCCCC(=O)OC,methyl (9Z)-octadec-9-enoate,Esters,C19H36O2,296.49,386.15,0,1,0,2,14,0,0,1,0,2,0,0,0,0,0,0,0.578993056
+218,C=CCCCCCCCCC(=O)OC,methyl 10-undecenoate,Esters,C12H22O2,198.3,373.15,0,1,0,1,8,0,0,1,0,1,0,0,0,0,0,0,0.54
+219,CCCC(=O)OC,methyl butanoate,Esters,C5H10O2,102.13,287,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0.357142857
+220,CCCCCCCCCCCC(=O)OC,methyl dodecanoate,Esters,C13H26O2,214.34,386.15,0,0,0,2,10,0,0,1,0,0,0,0,0,0,0,0,0.493079585
+221,CCCCCCCCCCCCCCCCCCCC(=O)OC,methyl eicosanoate,Esters,C21H42O2,326.56,386.15,0,0,0,2,18,0,0,1,0,0,0,0,0,0,0,0,0.5784
+222,CCCCCCCCCCCCCCCCC(=O)OC,methyl heptadecanoate,Esters,C18H36O2,284.48,383.15,0,0,0,2,15,0,0,1,0,0,0,0,0,0,0,0,0.560950413
+223,C=CCCCC(=O)OC,methyl hex-5-enoate,Esters,C7H12O2,128.17,319.15,0,1,0,1,3,0,0,1,0,1,0,0,0,0,0,0,0.445
+224,CCCCCCCCC(=O)OC,methyl nonanoate,Esters,C10H20O2,172.26,360.15,0,0,0,2,7,0,0,1,0,0,0,0,0,0,0,0,0.466836735
+225,CCCCCCCCCCCCCCCCCC(=O)OC,methyl octadecanoate,Esters,C19H38O2,298.5,388,0,0,0,2,16,0,0,1,0,0,0,0,0,0,0,0,0.569943289
+226,CCCCCCCC(=O)OC,methyl octanoate,Esters,C9H18O2,158.24,342.15,0,0,0,2,6,0,0,1,0,0,0,0,0,0,0,0,0.428994083
+227,COC(=O)CCC=C,methyl pent-4-enoate,Esters,C6H10O2,114.14,302.15,0,1,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0.401234568
+228,COC(=O)C=C,methyl prop-2-enoate,Esters,C4H6O2,86.09,270,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0.357142857
+229,CCCOC(=O)CC,n-propyl propanoate,Esters,C6H12O2,116.16,292.15,0,0,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0.3828125
+230,CC(=O)OCC(C)(C)C,neopentyl ethanoate,Esters,C7H14O2,130.18,316,0,0,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0.400826446
+231,CCCCCCCCCOC(=O)C,nonyl ethanoate,Esters,C11H22O2,186.29,372.15,0,0,0,2,8,0,0,1,0,0,0,0,0,0,0,0,0.472318339
+232,CCCCCCCCCOC=O,nonyl methanoate,Esters,C10H20O2,172.26,360,0,0,0,1,8,0,0,1,0,0,0,0,0,0,0,0,0.466836735
+233,CCCCCCCCOC(=O)CCC,octyl butanoate,Esters,C12H24O2,200.32,378,0,0,0,2,9,0,0,1,0,0,0,0,0,0,0,0,0.522959184
+234,CCCCCCCCOC(=O)C,octyl ethanoate,Esters,C10H20O2,172.26,359.15,0,0,0,2,7,0,0,1,0,0,0,0,0,0,0,0,0.48125
+235,CCCCCOC(=O)CCC,pentyl butanoate,Esters,C9H18O2,158.24,345,0,0,0,2,6,0,0,1,0,0,0,0,0,0,0,0,0.466942149
+236,CCCCCOC(=O)C,pentyl ethanoate,Esters,C7H14O2,130.18,312.15,0,0,0,2,4,0,0,1,0,0,0,0,0,0,0,0,0.415555556
+237,CCCCCOC=O,pentyl methanoate,Esters,C6H12O2,116.16,319,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,0.3984375
+238,CCCOC(=O)C(=C)C,propyl 2-methylprop-2-enoate,Esters,C7H12O2,128.17,322,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0.465
+239,CCCOC(=O)C=C,propyl prop-2-enoate,Esters,C6H10O2,114.14,311,0,1,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0.438271605
+240,CCC(C)OC(=O)C,sec-butyl ethanoate,Esters,C6H12O2,116.16,255.15,0,0,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0.37654321
+241,CC(CC)OC=O,sec-butyl methanoate,Esters,C5H10O2,102.13,299,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0.357142857
+242,CC(=C)C(=O)OC(C)(C)C,tert-butyl 2-methylprop-2-enoate,Esters,C8H14O2,142.2,300.15,0,1,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0.452662722
+243,CCCC(=O)OC(C)(C)C,tert-butyl butanoate,Esters,C8H16O2,144.21,320,0,0,0,4,2,0,0,1,0,0,0,0,0,0,0,0,0.427083333
+244,CC(=O)OC(C)(C)C,tert-butyl ethanoate,Esters,C6H12O2,116.16,287.25,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0.371527778
+245,O=COC(C)(C)C,tert-butyl methanoate,Esters,C5H10O2,102.13,264.15,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0.363905325
+246,CCCCCCCCCCCCCCOC=O,tetradecyl methanoate,Esters,C15H30O2,242.4,433,0,0,0,1,13,0,0,1,0,0,0,0,0,0,0,0,0.533240997
+247,CCCCCCCCCCCOC(=O)CCC,undecyl butanoate,Esters,C15H30O2,242.4,421,0,0,0,2,12,0,0,1,0,0,0,0,0,0,0,0,0.530470914
+248,CCCCCCCCCCCOC(=O)C,undecyl ethanoate,Esters,C13H26O2,214.34,398,0,0,0,2,10,0,0,1,0,0,0,0,0,0,0,0,0.528355388
+249,CCCCCCCCCCCOC=O,undecyl methanoate,Esters,C12H24O2,200.32,385,0,0,0,1,10,0,0,1,0,0,0,0,0,0,0,0,0.528061224
+250,CCCCCCCCCCCOC(=O)CC,undecyl propanoate,Esters,C14H28O2,228.37,410,0,0,0,2,11,0,0,1,0,0,0,0,0,0,0,0,0.523148148
+251,CC1=CCC(CC1)C(=C)C,1-methyl-4-(prop-1-en-2-yl)cyclohex-1-ene,Naphtenes,C10H16,136.23,318.15,0,2,0,2,0,0,0,0,0,0,1,1,3,0,0,0,0.405325444
+252,CC1=CC=C(CC1)C(C)C,"1-methyl-4-(propan-2-yl)cyclohexa-1,3-diene",Naphtenes,C10H16,136.23,319.15,0,2,0,3,0,0,0,0,1,0,2,0,2,0,0,0,0.399305556
+253,CC1=CCC(=CC1)C(C)C,"1-methyl-4-(propan-2-yl)cyclohexa-1,4-diene",Naphtenes,C10H16,136.23,324.15,0,2,0,3,0,0,0,0,1,0,2,0,2,0,0,0,0.380102041
+254,C[C@H]1C[C@H](C)C[C@H](C)C1,"1-trans-3,5-trimethylcyclohexane",Naphtenes,C9H18,126.24,292.15,0,0,0,3,0,0,0,0,0,0,0,3,3,0,0,0,0.33
+255,CCC1(CC)CCCCC1,"1,1-diethylcyclohexane",Naphtenes,C10H20,140.26,322.15,0,0,1,2,2,0,0,0,0,0,0,0,5,0,0,0,0.272959184
+256,CC1(C)CCCCC1,"1,1-dimethylcyclohexane",Naphtenes,C8H16,112.21,280,0,0,1,2,0,0,0,0,0,0,0,0,5,0,0,0,0.28125
+257,CC12CC3CC(C1)CC(C)(C3)C2,"1,3-dimethyladamantane",Naphtenes,C12H20,164.29,325.15,0,0,2,2,0,0,0,0,0,0,0,2,6,0,0,0,0.315555556
+258,CC1=CCC(C=C1)C(C)C,"2-methyl-5-propan-2-ylcyclohexa-1,3-diene",Naphtenes,C10H16,136.23,322,0,2,0,3,0,0,0,0,1,0,3,1,1,0,0,0,0.40625
+259,C1CC2C=CC1C2,2-norbornene,Naphtenes,C7H10,94.15,258.15,0,1,0,0,0,0,0,0,0,0,2,2,3,0,0,0,0.211734694
+260,C=C1C2CCC(C2)C1(C)C,"3,3-dimethyl-2-methylidenebicyclo[2.2.1]heptane",Naphtenes,C10H16,136.23,309.15,0,1,1,2,0,0,0,0,0,0,0,2,3,0,0,0,0.372781065
+261,CC1=CCC2CC1C2(C)C,"4,6,6-trimethylbicyclo[3.1.1]hept-3-ene",Naphtenes,C10H16,136.23,303.15,0,1,1,3,0,0,0,0,0,0,1,2,2,0,0,0,0.322916667
+262,CC=C1CC2CC1C=C2,5-ethylidene-2-norbornene,Naphtenes,C9H12,120.19,311.15,0,2,0,1,0,0,0,0,0,1,2,2,2,0,0,0,0.316326531
+263,C=C1CCC2CC1C2(C)C,"6,6-dimethyl-4-methylidenebicyclo[3.1.1]heptane",Naphtenes,C10H16,136.23,304,0,1,1,2,0,0,0,0,0,0,0,2,3,0,0,0,0.329861111
+264,C1CCC(CC1)C1CCCCC1,bicyclohexyl,Naphtenes,C12H9,153.2,347.15,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0.37345679
+265,CCCCC1CCCCC1,butylcyclohexane,Naphtenes,C10H14,134.22,321,0,0,0,1,3,0,0,0,0,0,0,1,5,0,0,0,0.357638889
+266,C[C@@H]1CCCC[C@@H]1C,"cis-1,2-dimethylcyclohexane",Naphtenes,C8H16,112.21,284,0,0,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0.25
+267,C[C@@H]1CCC[C@@H]1C,"cis-1,2-dimethylcyclopentane",Naphtenes,C7H14,98.19,269,0,0,0,2,0,0,0,0,0,0,0,2,3,0,0,0,0.224489796
+268,C[C@@H]1CCC[C@H](C)C1,"cis-1,3-dimethylcyclohexane",Naphtenes,C8H16,112.21,279,0,0,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0.288927336
+269,C1CC[C@@H]2CCCC[C@@H]2C1,cis-decalin,Naphtenes,C10H18,138.25,323.15,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0.255859375
+270,C1C=CCCC=CCCC=CC1,"cyclododeca-1,5,9-triene",Naphtenes,C12H18,162.27,360.15,0,3,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0.45703125
+271,C1CCCCCC1,cycloheptane,Naphtenes,C7H14,98.19,267.15,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0.24556213
+272,C1CC=CC=C1,"cyclohexa-1,3-diene",Naphtenes,C6H8,80.13,257,0,2,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0.28125
+273,C1C=CCC=C1,"cyclohexa-1,4-diene",Naphtenes,C6H8,80.13,262.15,0,2,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0.195
+274,C1CCCCC1,cyclohexane,Naphtenes,C6H6,78.11,253.15,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0.166666667
+275,C1C=CCCC=CC1,"cycloocta-1,5-diene",Naphtenes,C8H12,108.18,308.15,0,2,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0.34
+276,C1C=CC=C1,"cyclopenta-1,3-diene",Naphtenes,C5H6,66.1,273,0,2,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0.154320988
+277,C1CCCC1,cyclopentane,Naphtenes,C5H10,70.13,236,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0.109375
+278,C=CC1CC2C=CC1C2,ethenylnorbornene,Naphtenes,C9H12,120.19,300.15,0,2,0,0,0,0,0,0,0,1,2,3,2,0,0,0,0.298469388
+279,CCC1CCCCC1,ethylcyclohexane,Naphtenes,C8H10,106.16,295.15,0,0,0,1,1,0,0,0,0,0,0,1,5,0,0,0,0.24556213
+280,CCC1CCCC1,ethylcyclopentane,Naphtenes,C7H14,98.19,269,0,0,0,1,1,0,0,0,0,0,0,1,4,0,0,0,0.224489796
+281,CC(C)C1CCCCC1,isopropylcyclohexane,Naphtenes,C9H12,120.19,308.15,0,0,0,2,0,0,0,0,1,0,0,1,5,0,0,0,0.436728395
+282,CC(C)C1CCCC1,isopropylcyclopentane,Naphtenes,C8H16,112.21,287,0,0,0,2,0,0,0,0,1,0,0,1,4,0,0,0,0.415816327
+283,CC1CCCCC1,methylcyclohexane,Naphtenes,C7H8,92.14,267.15,0,0,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0.24556213
+284,CC1=CC=CC1,methylcyclopentadiene,Naphtenes,C6H8,80.13,322.04,0,2,0,1,0,0,0,0,0,0,3,0,1,0,0,0,0.195
+285,CC1CCCC1,methylcyclopentane,Naphtenes,C6H12,84.16,246,0,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,0.166666667
+286,C=C1CCCC1,methylenecyclopentane,Naphtenes,C6H10,82.14,254,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0.224489796
+287,C=CCC1CCCC1,prop-2-enylcyclopentane,Naphtenes,C8H14,110.2,285,0,1,0,0,1,0,0,0,0,1,0,1,4,0,0,0,0.314814815
+288,CCCC1CCCCC1,propylcyclohexane,Naphtenes,C9H12,120.19,304,0,0,0,1,2,0,0,0,0,0,0,1,5,0,0,0,0.301652893
+289,CC1=CCC(=C(C)C)CC1,terpinolene,Naphtenes,C10H16,136.23,311,0,2,0,3,0,0,0,0,0,0,1,0,3,0,0,0,0.375
+290,CC(C)(C)C1CCCCC1,tert-butylcyclohexane,Naphtenes,C10H14,134.22,315,0,0,1,3,0,0,0,0,0,0,0,1,5,0,0,0,0.427734375
+291,C[C@@H]1CCCC[C@H]1C,"trans-1,2-dimethylcyclohexane",Naphtenes,C8H16,112.21,280,0,0,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0.25
+292,C[C@@H]1CCC[C@@H](C)C1,"trans-1,3-dimethylcyclohexane",Naphtenes,C8H16,112.21,281,0,0,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0.288927336
+293,C[C@@H]1CC[C@@H](C)CC1,"trans-1,4-dimethylcyclohexane",Naphtenes,C8H16,112.21,284.15,0,0,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0.25
+294,C1CC[C@@H]2CCCC[C@H]2C1,trans-decalin,Naphtenes,C10H18,138.25,325.15,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0.255859375
+295,CCC/C=C/C,(2E)-2-hexene,Olefins,C6H12,84.16,246,0,1,0,2,2,0,0,0,0,2,0,0,0,0,0,0,0.335
+296,CC/C=C/C,(2E)-2-pentene,Olefins,C5H10,70.13,228,0,1,0,2,1,0,0,0,0,2,0,0,0,0,0,0,0.265432099
+297,CC/C(=C/C)/C,(2E)-3-methylpent-2-ene,Olefins,C6H12,84.16,246,0,1,0,3,1,0,0,0,0,1,0,0,0,0,0,0,0.255
+298,C/C=C/C(C)C,(2E)-4-methylpent-2-ene,Olefins,C6H12,84.16,239,0,1,0,3,0,0,0,0,1,2,0,0,0,0,0,0,0.335
+299,CCCC/C=C/C,(2E)-hept-2-ene,Olefins,C7H14,98.19,272,0,1,0,2,3,0,0,0,0,2,0,0,0,0,0,0,0.363905325
+300,C/C=C\C,(2Z)-but-2-ene,Olefins,C4H8,56.11,200,0,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0.1875
+301,CC/C=C/CC,(3E)-3-hexene,Olefins,C6H12,84.16,261.15,0,1,0,2,2,0,0,0,0,2,0,0,0,0,0,0,0.291666667
+302,C=CC/C=C/C,"(4E)-hexa-1,4-diene",Olefins,C6H10,82.14,248.15,0,2,0,1,1,0,0,0,0,3,0,0,0,0,0,0,0.363905325
+303,CCC/C=C/CCC,(4E)-oct-4-ene,Olefins,C8H16,112.21,281,0,1,0,2,4,0,0,0,0,2,0,0,0,0,0,0,0.4140625
+304,CC1=CCCCC1,1-methylcyclohex-1-ene,Olefins,C7H12,96.17,272,0,1,0,1,0,0,0,0,0,0,1,0,4,0,0,0,0.25
+305,CC1=CCCC1,1-methylcyclopent-1-ene,Olefins,C6H10,82.14,256,0,1,0,1,0,0,0,0,0,0,1,0,3,0,0,0,0.154320988
+306,CCCCCC(=C)C,2-methylhept-1-ene,Olefins,C8H16,112.21,283,0,1,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0.375
+307,CCCCC=C(C)C,2-methylhept-2-ene,Olefins,C8H16,112.21,281,0,1,0,3,3,0,0,0,0,1,0,0,0,0,0,0,0.371527778
+308,CCCC(=C)C,2-methylpent-1-ene,Olefins,C6H12,84.16,247,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0.335
+309,CC(=C)C,2-methylprop-1-ene,Olefins,C4H8,56.11,197,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.1875
+310,CC(=C)C(C)C,"2,3-dimethylbut-1-ene",Olefins,C6H12,84.16,255.15,0,1,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0.335
+311,CC(=C(C)C)C,"2,3-dimethylbut-2-ene",Olefins,C6H12,84.16,257.15,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0.166666667
+312,CC(=C)C(=C)C,"2,3-dimethylbuta-1,3-diene",Olefins,C6H10,82.14,251.15,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.363905325
+313,CCCC(C)C(=C)C,"2,3-dimethylhex-1-ene",Olefins,C8H16,112.21,281,0,1,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0.3984375
+314,CC(=C)C(C)(C)C,"2,3,3-trimethylbut-1-ene",Olefins,C7H14,98.19,256.15,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0.363905325
+315,CC(C)C(=C(C)C)C,"2,3,4-trimethylpent-2-ene",Olefins,C8H16,112.21,275,0,1,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0.415816327
+316,CC(=CC(C)(C)C)C,"2,4,4-trimethylpent-2-ene",Olefins,C8H16,112.21,272.15,0,1,1,5,0,0,0,0,0,1,0,0,0,0,0,0,0.371527778
+317,CCCC(CC)C=C,3-ethylhex-1-ene,Olefins,C8H16,112.21,274,0,1,0,2,3,0,0,0,1,1,0,0,0,0,0,0,0.401234568
+318,CCC(=CC)CC,3-ethylpent-2-ene,Olefins,C7H14,98.19,267,0,1,0,3,2,0,0,0,0,1,0,0,0,0,0,0,0.301652893
+319,C=CC(C)C,3-methylbut-1-ene,Olefins,C5H10,70.13,217,0,1,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0.3
+320,CC1CCCC=C1,3-methylcyclohex-1-ene,Olefins,C7H12,96.17,270,0,1,0,1,0,0,0,0,0,0,2,1,3,0,0,0,0.28125
+321,CC(CC)C=C,3-methylpent-1-ene,Olefins,C6H12,84.16,245,0,1,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0.319444444
+322,CC=C(C)C=C,"3-methylpenta-1,3-diene",Olefins,C6H10,82.14,245,0,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0.326446281
+323,C=CC(C)(C)C,"3,3-dimethylbut-1-ene",Olefins,C6H12,84.16,245.15,0,1,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0.319444444
+324,C=CC1CCC=CC1,4-ethenylcyclohex-1-ene,Olefins,C8H12,108.18,289,0,2,0,0,0,0,0,0,0,1,2,1,3,0,0,0,0.345
+325,CCCC(C)CC=C,4-methylhept-1-ene,Olefins,C8H16,112.21,275,0,1,0,2,3,0,0,0,1,1,0,0,0,0,0,0,0.401234568
+326,C=CC=C(C)C,"4-methylpenta-1,3-diene",Olefins,C6H10,82.14,255,0,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0.316326531
+327,C=CCC(C)(C)C,"4,4-dimethylpent-1-ene",Olefins,C7H14,98.19,261,0,1,1,3,1,0,0,0,0,1,0,0,0,0,0,0,0.363905325
+328,C=CCCC(C)C,5-methylhex-1-ene,Olefins,C7H14,98.19,263,0,1,0,2,2,0,0,0,1,1,0,0,0,0,0,0,0.37755102
+329,C=CC=C,"buta-1,3-diene",Olefins,C4H6,54.09,197.15,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.3
+330,C1CCC=CCC1,cycloheptene,Olefins,C7H12,96.17,267.15,0,1,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0.28125
+331,C1CCC=CC1,cyclohexene,Olefins,C6H10,82.14,243.15,0,1,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0.224489796
+332,C1CCCC=CCC1,cyclooctene,Olefins,C8H14,110.2,298.15,0,1,0,0,0,0,0,0,0,0,2,0,6,0,0,0,0.308641975
+333,C1CC=CC1,cyclopentene,Olefins,C5H8,68.12,244,0,1,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0.175
+334,CCCCCCCCC=C,dec-1-ene,Olefins,C10H20,140.26,311,0,1,0,1,7,0,0,0,0,1,0,0,0,0,0,0,0.455
+335,CCCCCCCCCCC=C,dodec-1-ene,Olefins,C12H24,168.32,346,0,1,0,1,9,0,0,0,0,1,0,0,0,0,0,0,0.466836735
+336,CCCCCC=C,hept-1-ene,Olefins,C7H14,98.19,265.15,0,1,0,1,4,0,0,0,0,1,0,0,0,0,0,0,0.37755102
+337,CCCCC=C,hex-1-ene,Olefins,C6H12,84.16,247,0,1,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0.319444444
+338,CCCCCCCCCCCCCCC=C,hexadec-1-ene,Olefins,C16H32,224.42,405.15,0,1,0,1,13,0,0,0,0,1,0,0,0,0,0,0,0.523148148
+339,CCCCCCCC=C,non-1-ene,Olefins,C9H18,126.24,298,0,1,0,1,6,0,0,0,0,1,0,0,0,0,0,0,0.401234568
+340,CCCCCCC=C,oct-1-ene,Olefins,C8H16,112.21,281,0,1,0,1,5,0,0,0,0,1,0,0,0,0,0,0,0.3984375
+341,C=CCCCCC=C,"octa-1,7-diene",Olefins,C8H14,110.2,282,0,2,0,0,4,0,0,0,0,2,0,0,0,0,0,0,0.425925926
+342,CCCCCCCCCCCCCCCCC=C,octadec-1-ene,Olefins,C18H36,252.48,421.15,0,1,0,1,15,0,0,0,0,1,0,0,0,0,0,0,0.572530864
+343,CCCC=C,pent-1-ene,Olefins,C5H10,70.13,222,0,1,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0.3
+344,CC=C,propylene,Olefins,C3H6,42.08,165,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0.204081633
+345,CCCCCCCCCCCCC=C,tetradec-1-ene,Olefins,C14H28,196.37,370,0,1,0,1,11,0,0,0,0,1,0,0,0,0,0,0,0.528061224
+346,CCCCCCCCCCCC=C,tridec-1-ene,Olefins,C13H26,182.34,352.15,0,1,0,1,10,0,0,0,0,1,0,0,0,0,0,0,0.477777778
+347,CCCCC(C)C,2-methylhexane,Paraffins,C7H16,100.2,255,0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0.375
+348,CCCCCCC(C)C,2-methyloctane,Paraffins,C9H20,128.25,297,0,0,0,3,5,0,0,0,1,0,0,0,0,0,0,0,0.423076923
+349,CCC(C)(C)C,"2,2-dimethylbutane",Paraffins,C6H14,86.17,225,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0.255102041
+350,CCCCC(C)(C)C,"2,2-dimethylhexane",Paraffins,C8H18,114.23,269,0,0,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0.375
+351,CCCCCCC(C)(C)C,"2,2-dimethyloctane",Paraffins,C10H22,142.28,304,0,0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0.423076923
+352,CCCC(C)(C)C,"2,2-dimethylpentane",Paraffins,C7H16,100.2,258.15,0,0,1,4,2,0,0,0,0,0,0,0,0,0,0,0,0.3359375
+353,CC(C)C(C)(C)C,"2,2,3-trimethylbutane",Paraffins,C7H16,100.2,249,0,0,1,5,0,0,0,0,1,0,0,0,0,0,0,0,0.375
+354,CCC(C)C(C)(C)C,"2,2,3-trimethylpentane",Paraffins,C8H18,114.23,270,0,0,1,5,1,0,0,0,1,0,0,0,0,0,0,0,0.375
+355,CC(C)(C)C(C)(C)C,"2,2,3,3-tetramethylbutane",Paraffins,C8H18,114.23,278,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0.375
+356,CCCC(C)(C)C(C)(C)C,"2,2,3,3-tetramethylhexane",Paraffins,C10H22,142.28,304,0,0,2,6,2,0,0,0,0,0,0,0,0,0,0,0,0.425
+357,CCC(C)(C)C(C)(C)C,"2,2,3,3-tetramethylpentane",Paraffins,C9H20,128.25,289,0,0,2,6,1,0,0,0,0,0,0,0,0,0,0,0,0.37654321
+358,CCC(C)C(C)C(C)(C)C,"2,2,3,4-tetramethylhexane",Paraffins,C10H22,142.28,304,0,0,1,6,1,0,0,0,2,0,0,0,0,0,0,0,0.415
+359,CC(C)C(C)C(C)(C)C,"2,2,3,4-tetramethylpentane",Paraffins,C9H20,128.25,284,0,0,1,6,0,0,0,0,2,0,0,0,0,0,0,0,0.388888889
+360,CCC(C)CC(C)(C)C,"2,2,4-trimethylhexane",Paraffins,C9H20,128.25,288,0,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0,0.37654321
+361,CC(C)CC(C)(C)C,"2,2,4-trimethylpentane",Paraffins,C8H18,114.23,261,0,0,1,5,1,0,0,0,1,0,0,0,0,0,0,0,0.375
+362,CC(C)(C)CC(C)(C)C,"2,2,4,4-tetramethylpentane",Paraffins,C9H20,128.25,276,0,0,2,6,1,0,0,0,0,0,0,0,0,0,0,0,0.375
+363,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,"2,2,4,4,6,8,8-heptamethylnonane",Paraffins,C16H34,226.44,368.15,0,0,3,9,3,0,0,0,1,0,0,0,0,0,0,0,0.529296875
+364,CC(C)(C)CCC(C)(C)C,"2,2,5,5-tetramethylhexane",Paraffins,C10H22,142.28,289,0,0,2,6,2,0,0,0,0,0,0,0,0,0,0,0,0.415
+365,CC(C)C(C)C,"2,3-dimethylbutane",Paraffins,C6H14,86.17,244,0,0,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0.3359375
+366,CCCCC(C)C(C)C,"2,3-dimethylheptane",Paraffins,C9H20,128.25,288,0,0,0,4,3,0,0,0,2,0,0,0,0,0,0,0,0.3984375
+367,CCCC(C)C(C)C,"2,3-dimethylhexane",Paraffins,C8H18,114.23,278.48,0,0,0,4,2,0,0,0,2,0,0,0,0,0,0,0,0.37755102
+368,CCCCCC(C)C(C)C,"2,3-dimethyloctane",Paraffins,C10H22,142.28,309,0,0,0,4,4,0,0,0,2,0,0,0,0,0,0,0,0.415
+369,CCC(C)C(C)C,"2,3-dimethylpentane",Paraffins,C7H16,100.2,258,0,0,0,4,1,0,0,0,2,0,0,0,0,0,0,0,0.319444444
+370,CCCC(C)(C)C(C)C,"2,3,3-trimethylhexane",Paraffins,C9H20,128.25,288,0,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0,0.401234568
+371,CCC(C)(C)C(C)C,"2,3,3-trimethylpentane",Paraffins,C8H18,114.23,273,0,0,1,5,1,0,0,0,1,0,0,0,0,0,0,0,0.3515625
+372,CCC(C)C(C)(C)C(C)C,"2,3,3,4-tetramethylhexane",Paraffins,C10H22,142.28,304,0,0,1,6,1,0,0,0,2,0,0,0,0,0,0,0,0.425
+373,CC(C)C(C)(C)C(C)C,"2,3,3,4-tetramethylpentane",Paraffins,C9H20,128.25,284,0,0,1,6,0,0,0,0,2,0,0,0,0,0,0,0,0.401234568
+374,CC(C)C(C)C(C)C,"2,3,4-trimethylpentane",Paraffins,C8H18,114.23,273,0,0,0,5,0,0,0,0,3,0,0,0,0,0,0,0,0.3671875
+375,CCC(C)CC(C)C(C)C,"2,3,5-trimethylheptane",Paraffins,C10H22,142.28,304,0,0,0,5,2,0,0,0,3,0,0,0,0,0,0,0,0.395
+376,CCCC(C)CC(C)C,"2,4-dimethylheptane",Paraffins,C9H20,128.25,288,0,0,0,4,3,0,0,0,2,0,0,0,0,0,0,0,0.401234568
+377,CC(C)CC(C)C,"2,4-dimethylpentane",Paraffins,C7H16,100.2,261,0,0,0,4,1,0,0,0,2,0,0,0,0,0,0,0,0.3359375
+378,CCC(C)C(C)CC(C)C,"2,4,5-trimethylheptane",Paraffins,C10H22,142.28,304,0,0,0,5,2,0,0,0,3,0,0,0,0,0,0,0,0.425
+379,CC(C)CC(C)CC(C)C,"2,4,6-trimethylheptane",Paraffins,C10H22,142.28,304,0,0,0,5,2,0,0,0,3,0,0,0,0,0,0,0,0.425
+380,CC(C)CCC(C)C,"2,5-dimethylhexane",Paraffins,C8H18,114.23,271,0,0,0,4,2,0,0,0,2,0,0,0,0,0,0,0,0.3671875
+381,CC(C)CCCC(C)C,"2,6-dimethylheptane",Paraffins,C9H20,128.25,299,0,0,0,4,3,0,0,0,2,0,0,0,0,0,0,0,0.401234568
+382,CCC(C)CCCC(C)C,"2,6-dimethyloctane",Paraffins,C10H22,142.28,307,0,0,0,4,4,0,0,0,2,0,0,0,0,0,0,0,0.395
+383,CC(CCCCC(C)CCCC(C)CCCC(C)C)CCCC(C)CCCC(C)C,"2,6,10,15,19,23-hexamethyltetracosane",Paraffins,C30H62,422.81,490,0,0,0,8,16,0,0,0,6,0,0,0,0,0,0,0,0.649821641
+384,CC(C)CCCCC(C)C,"2,7-dimethyloctane",Paraffins,C10H22,142.28,314,0,0,0,4,4,0,0,0,2,0,0,0,0,0,0,0,0.456632653
+385,CCC(CC)C(C)C,3-ethyl-2-methylpentane,Paraffins,C8H18,114.23,276,0,0,0,4,2,0,0,0,2,0,0,0,0,0,0,0,0.357142857
+386,CCC(CC)C(C)(C)C,"3-ethyl-2,2-dimethylpentane",Paraffins,C9H20,128.25,286,0,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0,0.3828125
+387,CCC(C)(CC)C(C)C,"3-ethyl-2,3-dimethylpentane",Paraffins,C9H20,128.25,288,0,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0,0.364197531
+388,CCC(C)(C(C)C)C(C)C,"3-ethyl-2,3,4-trimethylpentane",Paraffins,C10H22,142.28,304,0,0,1,6,1,0,0,0,2,0,0,0,0,0,0,0,0.415
+389,CCC(C(C)C)C(C)C,"3-ethyl-2,4-dimethylpentane",Paraffins,C9H20,128.25,288,0,0,0,5,1,0,0,0,3,0,0,0,0,0,0,0,0.4140625
+390,CCCCC(C)(CC)CC,3-ethyl-3-methylheptane,Paraffins,C10H22,142.28,314,0,0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0.395
+391,CCC(C)(CC)CC,3-ethyl-3-methylpentane,Paraffins,C8H18,114.23,276,0,0,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0.306122449
+392,CCC(C)CC(CC)CC,3-ethyl-5-methylheptane,Paraffins,C10H22,142.28,304,0,0,0,4,4,0,0,0,2,0,0,0,0,0,0,0,0.395
+393,CCCC(CC)CC,3-ethylhexane,Paraffins,C8H18,114.23,278,0,0,0,3,4,0,0,0,1,0,0,0,0,0,0,0,0.3515625
+394,CCCC(C)CC,3-methylhexane,Paraffins,C7H16,100.2,269,0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0.319444444
+395,CCCCCCC(C)CC,3-methylnonane,Paraffins,C10H22,142.28,311,0,0,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0.415
+396,CCCCCC(C)CC,3-methyloctane,Paraffins,C9H20,128.25,297,0,0,0,3,5,0,0,0,1,0,0,0,0,0,0,0,0.388888889
+397,CCC(CC)(CC)CC,"3,3-diethylpentane",Paraffins,C9H20,128.25,294,0,0,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0.328125
+398,CCCCCC(C)(C)CC,"3,3-dimethyloctane",Paraffins,C10H22,142.28,314,0,0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0.395
+399,CCC(C)(C)C(C)(C)CC,"3,3,4,4-tetramethylhexane",Paraffins,C10H22,142.28,304,0,0,2,6,2,0,0,0,0,0,0,0,0,0,0,0,0.399305556
+400,CCC(C)C(C)CC,"3,4-dimethylhexane",Paraffins,C8H18,114.23,277,0,0,0,4,2,0,0,0,2,0,0,0,0,0,0,0,0.375
+401,CCC(C)C(C)C(C)CC,"3,4,5-trimethylheptane",Paraffins,C10H22,142.28,304,0,0,0,5,2,0,0,0,3,0,0,0,0,0,0,0,0.415
+402,CCCC(C)CC(C)CC,"3,5-dimethyloctane",Paraffins,C10H22,142.28,314,0,0,0,4,4,0,0,0,2,0,0,0,0,0,0,0,0.446745562
+403,CCCC(CC)CCC,4-ethylheptane,Paraffins,C9H20,128.25,288,0,0,0,3,5,0,0,0,1,0,0,0,0,0,0,0,0.364197531
+404,CCCCC(CC)CCC,4-ethyloctane,Paraffins,C10H22,142.28,314,0,0,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0.395
+405,CCCC(C)CCC,4-methylheptane,Paraffins,C8H18,114.23,279.15,0,0,0,3,4,0,0,0,1,0,0,0,0,0,0,0,0.37755102
+406,CCCCCC(C)CCC,4-methylnonane,Paraffins,C10H22,142.28,311,0,0,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0.415
+407,CCCC(CCC)CCC,4-propylheptane,Paraffins,C10H22,142.28,314,0,0,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0.415
+408,CCCC(C)(C)CCC,"4,4-dimethylheptane",Paraffins,C9H20,128.25,288,0,0,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0.401234568
+409,CCCCC(C)CCCC,5-methylnonane,Paraffins,C10H22,142.28,312,0,0,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0.425925926
+410,CC(C)C,isobutane,Paraffins,C4H10,58.12,190.15,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0.16
+411,CCCC(C)C,isohexane,Paraffins,C6H14,86.17,250,0,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0.3359375
+412,CCC(C)C,isopentane,Paraffins,C5H12,72.15,217.15,0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0.255102041
+413,CCCCCCCCCC,n-decane,Paraffins,C10H22,142.28,319,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0.415
+414,CCCCCCCCCCCC,n-dodecane,Paraffins,C12H26,170.33,347,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0,0,0.46875
+415,CCCCCCCCCCCCCCCCC,n-heptadecane,Paraffins,C17H36,240.47,421.15,0,0,0,2,15,0,0,0,0,0,0,0,0,0,0,0,0.541522491
+416,CCCCCC,n-hexane,Paraffins,C6H14,86.17,251.5,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0.26
+417,CCCCCCCCCCCCCCCCCCC,n-nonadecane,Paraffins,C19H40,268.52,441,0,0,0,2,17,0,0,0,0,0,0,0,0,0,0,0,0.552631579
+418,CCCCCCCCCCCCCCCCCC,n-octadecane,Paraffins,C18H38,254.49,438.15,0,0,0,2,16,0,0,0,0,0,0,0,0,0,0,0,0.547839506
+419,CCCCCCCC,n-octane,Paraffins,C8H18,114.23,286,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0.375
+420,CCCCCCCCCCCCCCC,n-pentadecane,Paraffins,C15H32,212.41,388,0,0,0,2,13,0,0,0,0,0,0,0,0,0,0,0,0.508888889
+421,CCCCCCCCCCCCC,n-tridecane,Paraffins,C13H28,184.36,352,0,0,0,2,11,0,0,0,0,0,0,0,0,0,0,0,0.482248521
+422,CCCCCCCCCCC,n-undecane,Paraffins,C11H24,156.31,338.15,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0.44214876
