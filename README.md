@@ -17,4 +17,4 @@ Please cite the following book if you use any of the codes:
 
 Martinez-Hernandez, E.; Puerto-Vargas, S.D. (2026). Artificial Intelligence in Process Systems Engineering - Modelling Biomass Conversion. De Gruyter.
 
-DISCLAIMER: The materials and code are intended for academic research only and not for commercial use. The authors assume no liability for the results. Users are responsible for independent verification. Model accuracy varies from computer to computer and even from one run to another.
+DISCLAIMER: The materials and code are intended for academic research only and not for commercial use. The authors assume no liability for the results, damage or any other consequences from the use of the code and other materials provided. Parts of the code were generated with AI support. Users are responsible for independent verification. Model accuracy varies from computer to computer and even from one run to another.
