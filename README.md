@@ -10,8 +10,7 @@ Chapter 8. Hybrid modelling for processes
 
 INSTRUCTIONS.
 Load the folders with the code and dataset .csv files in Colab or Jupyter Notebook. Make sure you have the dataset files in the same folder as the notebook.
-Test the code
-Enjoy and provide any feedback to eliasiq200@gmail.com
+Test the code, enjoy and provide any feedback.
 
 Please cite the following book if you use any of the codes:
 
